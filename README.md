@@ -1,16 +1,20 @@
 # Mobile — Estudos com Spck Editor
 
-Repositório de anotações e testes relacionados ao uso do aplicativo **Spck Editor** para escrever e experimentar código em dispositivos móveis.
+Repositório reservado para registrar experimentos e anotações sobre edição de código em dispositivos móveis usando o **Spck Editor**.
 
-## Objetivo
+> **Estado atual:** o repositório contém somente este README. Ainda não há exemplos de código, anotações ou um aplicativo mobile versionados aqui.
 
-- Explorar edição de código fora do computador.
-- Registrar testes e limitações do fluxo de trabalho móvel.
-- Avaliar a possibilidade de fazer pequenas alterações e praticar programação em qualquer lugar.
+## Objetivo planejado
 
-## Escopo
+- Registrar configurações e limitações do fluxo de trabalho móvel.
+- Guardar pequenos exemplos criados ou editados no Spck Editor.
+- Documentar o que pode ser desenvolvido no celular e o que depende do ambiente desktop.
 
-Este repositório documenta o ambiente de estudo e experimentação. Não representa, por si só, um aplicativo mobile publicado.
+## Quando começar a usar
+
+Ao adicionar conteúdo, prefira pastas e arquivos pequenos, com data ou objetivo claros. Não copie projetos inteiros que já tenham um repositório canônico; registre apenas experimentos próprios ou instruções úteis.
+
+Este repositório não representa um aplicativo mobile publicado.
 
 ## Projetos relacionados
 
